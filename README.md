@@ -71,3 +71,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Directory Descriptive:
+
+```
+── src
+│   ├── database
+│   ├── psicologos
+│   │   ├── dto
+│   │   └── entities
+│   └── usuarios
+│       ├── dto
+│       └── entities
+└── test
+```
+
+## Access Website:
+
+- ### <a href="https://projeto-interdisciplinar-api.herokuapp.com/"> API </a>
